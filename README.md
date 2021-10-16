@@ -24,12 +24,14 @@ pip install -r requirements.txt
 nano .env
 ```
 - Add data to the .env file 
-
-> Api_ID, Api_HASH - you can get from [my.telegram.org](https://my.telegram.org)
-> 
+ 
 > All data add to the file without " "
-> Put your Channel_Name
-> Session_ID is a random name of session
+> 
+>> Api_ID, Api_HASH - you can get from [my.telegram.org](https://my.telegram.org)
+> 
+>> Put the name of your channel
+> 
+>> Session_ID is a random name of session
 
 ```
 API_ID=11111111
